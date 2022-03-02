@@ -1,0 +1,12 @@
+name: ImageViewer
+version: 1.0
+author: Zabra
+main: me.zabra.ImageViewer.Main
+description: Can turn images to pixel art
+api-version: 1.13
+
+commands:
+ create:
+   description: creates a grid of sheep
+ butchersheep:
+   description: kill seep
